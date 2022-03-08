@@ -10,4 +10,3 @@ Word2Vec is a more sophisticated word embedding technique. This technique is bas
 
 Word2Vec is a two-layer neural network that takes as its input a large corpus of text and produces a vector space, typically of several hundred dimensions, with each unique word in the corpus being assigned a corresponding vector in the space (Wikipedia).
 
-Below we provide a known graphic representations of Word2Vec's word embedding. This picture gives an intuition about how word embedding looks like in Word2Vec.
